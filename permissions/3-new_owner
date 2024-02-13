@@ -1,2 +1,2 @@
 #!/bin/bash
-chown new-owner hello
+chown hello betty
